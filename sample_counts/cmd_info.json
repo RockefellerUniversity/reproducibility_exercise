@@ -1,0 +1,9 @@
+{
+    "salmon_version": "1.10.3",
+    "index": "docker_exercise/transcripts_index",
+    "libType": "A",
+    "mates1": "docker_exercise/reads_1.fastq",
+    "mates2": "docker_exercise/reads_2.fastq",
+    "output": "docker_exercise/sample_counts",
+    "auxDir": "aux_info"
+}
